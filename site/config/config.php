@@ -4,5 +4,5 @@
 
 return [
   'debug' => false,
-  'url' => 'https://simonknebl.de/transmediale-whatstays/'
+  'url' => 'https://whatstays.archiving.care'
 ];
