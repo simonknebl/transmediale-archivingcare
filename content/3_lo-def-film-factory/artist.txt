@@ -1,0 +1,54 @@
+Title: Lo-Def Film Factory
+
+----
+
+Artist: Lo-Def Film Factory
+
+----
+
+Projecttitle: The Subterranean Imprint Archive
+
+----
+
+Maindescription: *The Subterranean Imprint Archive* is a project by Francois Knoetze and Amy Louise Wilson (Lo-Def Film Factory) in collaboration with Joe-Yves Salankang Sa-Ngo. It is an ongoing research project that traces the legacy of extractive technologies in Central and Southern Africa.
+
+----
+
+Extradescription:
+
+The starting point of this inquiry is in the underground of the Shinkolobwe mine in the Democratic Republic of the Congo, where the uranium used in the Manhattan Project to create the atom bomb was extracted. This work seeks to layer narratives that are usually kept distinct and to visualize these historical and technological entanglements. During the residency, a series of diagrams were created to visualise key thematic elements from the project. These diagrams are housed in an online project archive also developed during the residency. The archive contains text, sound, video and collage. A pair of newly-created 360° maps seek to manipulate Google’s Streetview technology, asking if we can dislocate, re-map, complicate, and exploit existing models to deepen and disrupt the discourse on technopolitics in Africa and abroad.
+
+Based in South Africa, **Francois Knoetze and Amy Louise Wilson (Lo-Def Film Factory)**'s work involves archival research, dramaturgy, and visual strategies associated with video art, collage, sculptural installation and Virtual Reality, to explore and create space for collaborative and experimental community storytelling. Francois is a sculptor, performance, and video artist, who creates narrative portraits of the uncertainty in the nervous system of a global digital machine at the brink of collapse. Amy is a writer and performer interested in traditional South African theatre practices as a methodology for research and experimentation. The duo work with digital technologies in a DIY practice which embraces mistake-making.
+
+----
+
+Imagelist:
+
+- >
+  website-screenshot.-lo-def-film-factory.-2021-4.png
+- >
+  website-screenshot.-lo-def-film-factory.-2021-7.png
+- >
+  website-screenshot.-lo-def-film-factory.-2021.png
+- >
+  website-screenshot.-lo-def-film-factory.-2021-8.png
+- >
+  website-screenshot.-lo-def-film-factory.-2021-2.png
+- >
+  website-screenshot.-lo-def-film-factory.-2021-5.png
+- >
+  website-screenshot.-lo-def-film-factory.-2021-6.png
+- >
+  nuclear-south-africa.-digital-diagram.-lo-def-film-factory.-2021.png
+- >
+  bantu-ontology.-digital-diagram.-joe-yves-salankang-sa-ngol-lo-def-film-factory.-2021.png
+- >
+  website-screenshot.-lo-def-film-factory.-2021-3.png
+
+----
+
+Externallist:
+
+- 
+  title: The Subterranean Imprint Archive
+  external: https://lodef.co.za/

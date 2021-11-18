@@ -1,0 +1,55 @@
+Title: Unrendered facts event documentation
+
+----
+
+Cyclelist:
+
+- >
+  3_22.08.2021-absence-and-rituals_01_web.jpg
+- 5_19.08.2021-unrendered-facts_24_web.jpg
+- 1_unrendered_road1_300dpi_web.jpg
+- 6_19.08.2021-unrendered-facts_15_web.jpg
+- 2_unrendered_road5_300dpi_web.jpg
+- >
+  8_cemile_sahin__bad_people_bad_news__2021__filmstill_1.jpg
+- 7_4_3.1.4.jpg
+
+----
+
+Videolist: 
+
+----
+
+Newstext:
+
+Thu, 19 Aug 2021, 20:30–23:00
+***Unrendered facts***
+Performance, Screenings
+Haus der Kulturen der Welt
+ 
+Counter narratives performed out loud in a hotel room, the rendering of psychogeographies that an algorithm cannot find and a celebration at the end of the world. Bringing together films and a performance, out of doors Thursday programme explored how alternative histories, narratives and stories open up possibilities for refusal. 
+ 
+In her film, *Unrendered Road* (2020, 23 mins.), Tali Liberman questions knowledge systems such as Google Maps and the political realities they create. In Cemile Sahin‘s new essay film Bad People, Bad News (2021, 40 mins.), three Kurdish women meet in a presidential suite to celebrate the death of Saddam Hussein and Sonja Khalecallon, Cibelle Cavalli Bastos’ Drag Queen and chaotic High Femme, sings and tells tales of the retro-future from her establishment: Las Venus Resort Palace Hotel.
+
+*out of doors’s* Thursday event was part of the year-long programme of *What Stays – Archiving Care*, a collaborative project between transmediale, the JUNGE AKADEMIE of Akademie der Künste, Berlin and the Goethe-Institut Slovakia. Taking place across HKW’s Westgarten and the garden at silent green, transmediale’s *out of doors* brought together film, music, performance and talks that engaged with the aesthetics and politics of refusal. Featuring an international lineup of artists, writers, and filmmakers: Arjuna Neuman + Denise Ferreira da Silva, Bárbara Wagner + Benjamin de Burca, Bassam Al Sabah, Cemile Sahin, Cibelle Cavalli Bastos, Diane Edwards, Dylan Kerr, Frank Sweeney, Jennifer Mehigan, Nazanin Noori, p. staff, Salvatore Arancio, Tali Liberman and Haig Aivazian.
+
+----
+
+Externallist:
+
+- 
+  title: transmediale
+  external: >
+    https://transmediale.de/events/unrendered-facts
+
+----
+
+Color: #FFFFFF
+
+----
+
+Date: 2021-11-02
+
+----
+
+Includedate: false

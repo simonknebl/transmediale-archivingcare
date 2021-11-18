@@ -1,0 +1,152 @@
+title: whatstays
+
+tabs:
+
+  introduction:
+
+    label: Introduction
+    columns:
+
+      introductionleft:
+        width: 1/2
+        type: fields
+        fields:
+
+          introduction:
+            label: Introduction
+            type: textarea
+            buttons:
+              - bold
+              - italic
+              - '|'
+              - ul
+              - link
+              - email
+            counter: false
+            size: small
+
+      introductionright:
+        width: 1/2
+        type: fields
+        fields:
+
+          introductiondropdown:
+            label: Introduction Dropdown 
+            type: textarea
+            buttons:
+              - headlines
+              - '|'
+              - bold
+              - italic
+              - '|'
+              - ul
+              - link
+              - email
+            counter: false
+            size: small
+              
+
+
+  content:
+
+    label: Artists
+    sections:
+
+      artists:
+        headline:  Select, Sort or Add Artists
+        type: pages
+        create: artist
+        templates: artist
+        sortable: true
+        layout: cards
+        image:
+          cover: true
+
+  news:
+
+    label: News & Documentation
+    columns:
+      
+      newsleft:
+        width: 1/1
+        label: News & Documentation
+        type: fields
+        sections:
+
+          newspage:
+            headline: Select, Sort or Add Entry
+            type: pages
+            create: 
+              - news
+            templates:
+              - news
+            sortable: true
+            text: " {{ page.title.upper }}"
+            info: " {{ page.date.toDate('Y-m-d') }}"
+            layout: cards
+            image:
+              cover: true
+
+
+  seo:
+    label: Social, Contact & SEO
+    columns:
+      seoleft:
+        width: 1/2
+        sections:
+          seoleft:
+            type: fields
+            fields:
+              seoheadlineleft:
+                label: Partner & Contact
+                type: headline
+              akademie:
+                label: Akademie der Künste URL
+                type: text
+              transmediale:
+                label: transmediale URL
+                type: text
+              goethe:
+                label: Goethe Institut URL
+                type: text
+              externallist:
+                label: Additional URLs
+                type: structure
+                fields:
+                  title:
+                    label: Title
+                    type: text
+                  external:
+                    label: URL
+                    type: text
+              
+      seoright:
+        width: 1/2
+        sections:
+          seoright:
+            type: fields
+            fields:
+              seoheadlineright:
+                label: SEO
+                type: headline
+              metatitle:
+                label: Website Title for Search Engines
+                type: text
+              metadescription:
+                label: Website Description for Search Engines
+                type: textarea
+                buttons: false
+                size: xs
+                maxlength: 158
+              metakeywords:
+                label:
+                    en: Search Keywords
+                    de: Stichworte
+                type: tags
+              favicon:
+                label: Favicon (1:1 Format, Resolution adjusts automatically)
+                type: files
+                image:
+                  cover: true
+                layout: cards
+                max: 1

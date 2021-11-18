@@ -1,0 +1,79 @@
+title: Artist
+icon: 📝
+
+status:
+  draft: Draft
+  listed: Published
+
+columns:
+
+  column-text:
+    width: 1/2
+    label: Text
+    type: fields
+    fields:
+
+      textheadline:
+        label: Text
+        type: headline
+
+      artist:
+        label: Artist
+        type: textarea
+        buttons: false
+        counter: false
+        size: tiny
+
+      projecttitle:
+        label: Title
+        type: textarea
+        buttons: false
+        counter: false
+        size: tiny
+
+      maindescription:
+        label: Description
+        type: textarea
+        buttons:
+          - bold
+          - italic
+        counter: false
+        size: small
+
+      extradescription:
+        label: Extra Information
+        type: textarea
+        buttons:
+          - bold
+          - italic
+        counter: false
+        size: small
+
+  column-images:
+    width: 1/2
+    type: fields
+    fields:
+
+      texttitle:
+        label: Images & External
+        type: headline
+
+      imagelist:
+        label: Select Images
+        type: files
+        image:
+          cover: true
+        layout: cards
+        multiple: true
+        accept: image/jpeg, image/png, image/gif
+
+      externallist:
+        label: External
+        type: structure
+        fields:
+          title:
+            label: Title
+            type: text
+          external:
+            label: URL
+            type: text

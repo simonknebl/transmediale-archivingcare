@@ -1,0 +1,84 @@
+title: News & Documentation
+icon: 📣 & 🌀
+
+status:
+  draft: Draft
+  listed: Published
+
+columns:
+
+  column-text:
+    width: 2/3
+    label: Text
+    type: fields
+    fields:
+
+      textheadline:
+        label: Content
+        type: headline
+
+      cyclelist:
+        label: Images
+        type: files
+        image:
+          cover: true
+        layout: cards
+        multiple: true
+        accept: image/jpeg, image/png, image/gif
+
+      videolist:
+        label: Videos
+        type: structure
+        fields:
+          id:
+            label: Vimeo Embed Code (Responsive Size)
+            type: text
+          description:
+            label: Description
+            type: text
+
+      newstext:
+        label: Text
+        type: textarea
+        buttons:
+          - bold
+          - italic
+        counter: false
+        size: small
+
+  column-images:
+    width: 1/3
+    type: fields
+    fields:
+
+      texttitle:
+        label: External, Color & Publication Date
+        type: headline
+
+      externallist:
+        label: External
+        type: structure
+        fields:
+          title:
+            label: Title
+            type: text
+          external:
+            label: URL
+            type: text
+
+      color:
+        type: color
+        editableAlpha: false
+        default: "#FFFFFF"
+
+      date:
+        label: Published on
+        type: date
+        default: now
+
+      includedate:
+        label: Include Publishing Date
+        type: toggle
+        text: 
+          - "No"
+          - "Yes"
