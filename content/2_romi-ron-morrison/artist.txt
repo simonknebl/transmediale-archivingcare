@@ -38,4 +38,4 @@ Externallist:
     Noticing The Preconditions For
     ___________.
   external: >
-    https://elegantcollisions.com/noticing-the-preconditions-for
+    https://ionized-bronze-kumquat.glitch.me/static/

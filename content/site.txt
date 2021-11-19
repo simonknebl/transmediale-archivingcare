@@ -62,7 +62,7 @@ Externallist:
 - 
   title: Noticing The Preconditions For ___.
   external: >
-    https://elegantcollisions.com/noticing-the-preconditions-for
+    https://ionized-bronze-kumquat.glitch.me/static/
 - 
   title: The Subterranean Imprint Archive
   external: https://lodef.co.za/
