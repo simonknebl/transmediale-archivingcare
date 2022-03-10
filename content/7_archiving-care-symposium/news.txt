@@ -1,0 +1,63 @@
+Title: Archiving Care Symposium
+
+----
+
+Cyclelist: 
+
+----
+
+Videolist:
+
+- 
+  id: '<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/684653569?h=e44e68f4ad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Archiving Care Symposium"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>'
+  description: >
+    Video Documentation of the Archiving
+    Care Symposium Part 1
+
+----
+
+Newstext:
+
+Find the full documentation of the online symposium on the (link: https://www.youtube.com/playlist?list=PL09cgRdzMf2kEktTnvGi_IpjtRKX68jJ6 text: Goethe-Institut Slowakei YouTube channel).
+
+Fri, 26 Nov 2021, 16:00 - 20:40
+***Archiving Care Symposium***
+Online Event
+
+Speakers: Dušan Barok, Agata Cieślak & Asia Tsisar, Marcell Mars & Tomislav Medak (Pirate Care), Bojana Piškur, Jaro Varga, Arseny Zhilyaev
+
+As Boris Groys says, history occurs in a space between the archive and life, between the past that is being collected and the reality, understood as everything that has not been collected. Together we will explore this space between. The symposium will take a look at different contexts, cracks, how our presence is formed and then as accumulation, the archiving of different types of knowledge shapes its current narratives. We will also examine what has not been collected and archived. How can we look for the missing pieces of history in the cracks that shape our reality and presence. History follows a formal logic where the past, present and future are not thought of psychologically, not historically in the classical sense of the word, not existentially, but in a purely formal way, from the point of view of archival inclusion and exclusion. We will explore the forms and tools of archiving, care, interventions, we can approach our local histories in various contexts and constantly re-evaluate what is excluded and what is not, and how we can create scenarios for possible more inclusive futures.
+
+Programme (detailed programme description (link: https://www.facebook.com/events/608101017005937 text: here)):
+
+Dušan Barok - Matryoshka Intelligence: Archive, Database, Blockchain
+Bojana Piškur - Southern Constellations: Poetics of the Non-Aligned - ways of researching, curating, archiving and working together
+Arseny Zhilyaev - Museum in Russian Cosmism
+Agata Cieśliak & Asia Tsisar - Creating the alternative: Secondary Archive
+Jaro Varga - Challenging the library
+Marcell Mars & Tomislav Medak (Pirate Care) - The Disobedient Practices of Care and the Technopolitics of Digital Custodianship
+
+Curated & moderated by Peter Sit
+
+The event was hosted by the Goethe-Institut Slovakia as part of the year-long programme of What Stays – Archiving Care, a collaborative project between transmediale, the JUNGE AKADEMIE of Akademie der Künste, Berlin and the Goethe-Institut Slovakia.
+
+----
+
+Externallist:
+
+- 
+  title: Goethe-Institut Slovakia
+  external: >
+    https://www.goethe.de/ins/sk/de/index.html
+
+----
+
+Color: #FFFFFF
+
+----
+
+Date: 2022-03-04
+
+----
+
+Includedate: false
